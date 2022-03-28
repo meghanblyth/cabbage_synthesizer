@@ -19,4 +19,4 @@ Using combinations of the sliders, multiple methods of synthesis can be created 
 
 The code used to create this synthesiser has been adapted from the work of Rory Walsh, Hugh McCarthy and others.  
 
-
+To use this synth, please download cabbage from https://cabbageaudio.com/download/ 
