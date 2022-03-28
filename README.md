@@ -1,6 +1,3 @@
-# Sound Synthesis - Assignment 2 
-## Meghan Blyth
-### R00207699
 
 #### C sound Synthesiser created in Cabbage
 
